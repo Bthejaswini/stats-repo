@@ -1,3 +1,6 @@
 text file
 second change made
 local change
+after token change
+token update
+old token push
